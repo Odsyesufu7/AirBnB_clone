@@ -263,18 +263,17 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Oluwaseyi D Yesufu</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Odsyesufu7">Github</a></li>
+    <li><a href="https://www.twitter.com/Matrixsheyo">Twitter</a></li>
+    <li><a href="mailto:syesufu2000@yahoo.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Bamidele Adefolaju</summary>
+    <summary>Titilayo P Imogire</summary>
     <ul>
-    <li><a href="https://www.github.com/lexxyla">Github</a></li>
-    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/layorcodes">Github</a></li>
+    <li><a href="tiphilayo@gmail.com">e-mail</a></li>
     </ul>
 </details>
