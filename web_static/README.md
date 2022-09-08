@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Ayomide Suara** - [aysuarex](https://github.com/aysuarex)
+* **Yesufu D Oluwaseyi** - [Oyesufu7](https://github.com/Odsyesufu7)
